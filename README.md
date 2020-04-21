@@ -1,5 +1,5 @@
 # netCore_Training
-#--INYECCION DEPENDENCIAS--
+--INYECCION DEPENDENCIAS--
 
 Tipos de inyeccion =>
 
@@ -17,7 +17,7 @@ AddSingleton => services.AddSingleton<IMyService , MyService>();
 Unica instancia por peticion en contenedor, una sola en memoria
 
 
-#--RESTFUL SERVICES--
+--RESTFUL SERVICES--
 *Toda aplicacion Core deberia ser REST. Hacer un Backend independendiente de la presentacion.
 *Se consume mediante Postman
 *Los objetos REST son manipulados mediante un URI (endpoint) hace de identificador unico
@@ -51,14 +51,14 @@ PATCH: modificar solo un atributo del recurso
 500 => Problema ejecucion (Internal server error)
 
 
-#--PROTOCOLO CLIENTE/SERVIDOR SIN ESTADO--
+--PROTOCOLO CLIENTE/SERVIDOR SIN ESTADO--
 *Las peticiones HTTP contienen toda la informacion necesaria para ejecutarla, lo que permite
 que ni cliente ni servidor necesiten recordar ningun estado previo a satisfacer
 *Algunas aplicaciones HTTP incorporan memoria cache, con el objetivo de que el cliente
 pueda ejecutar en un futuro la misma respuesta para peticiones iguales
 
 
-#--USO DE RECURSOS HYPERMEDIA--
+--USO DE RECURSOS HYPERMEDIA--
 *Principio HATEOAS* cuando yo devuelva un recurso como una lista de productos, ademas de devolver
 los datos del producto, se devuelva la URL donde pueda clickear y se pueda navegar al detalle del producto,
 permite la navegacion entre recursos. 
