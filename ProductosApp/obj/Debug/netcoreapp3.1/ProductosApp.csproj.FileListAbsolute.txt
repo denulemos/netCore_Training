@@ -10,9 +10,15 @@ C:\Codigo\netCore\ProductosApp\bin\Debug\netcoreapp3.1\ProductosApp.pdb
 C:\Codigo\netCore\ProductosApp\obj\Debug\netcoreapp3.1\ProductosApp.csprojAssemblyReference.cache
 C:\Codigo\netCore\ProductosApp\obj\Debug\netcoreapp3.1\staticwebassets\ProductosApp.StaticWebAssets.Manifest.cache
 C:\Codigo\netCore\ProductosApp\obj\Debug\netcoreapp3.1\staticwebassets\ProductosApp.StaticWebAssets.xml
-C:\Codigo\netCore\ProductosApp\obj\Debug\netcoreapp3.1\ProductosApp.MvcApplicationPartsAssemblyInfo.cache
 C:\Codigo\netCore\ProductosApp\obj\Debug\netcoreapp3.1\ProductosApp.AssemblyInfoInputs.cache
 C:\Codigo\netCore\ProductosApp\obj\Debug\netcoreapp3.1\ProductosApp.AssemblyInfo.cs
 C:\Codigo\netCore\ProductosApp\obj\Debug\netcoreapp3.1\ProductosApp.RazorTargetAssemblyInfo.cache
 C:\Codigo\netCore\ProductosApp\obj\Debug\netcoreapp3.1\ProductosApp.dll
 C:\Codigo\netCore\ProductosApp\obj\Debug\netcoreapp3.1\ProductosApp.pdb
+C:\Codigo\netCore\ProductosApp\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Codigo\netCore\ProductosApp\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Codigo\netCore\ProductosApp\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Codigo\netCore\ProductosApp\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Codigo\netCore\ProductosApp\obj\Debug\netcoreapp3.1\ProductosApp.MvcApplicationPartsAssemblyInfo.cs
+C:\Codigo\netCore\ProductosApp\obj\Debug\netcoreapp3.1\ProductosApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Codigo\netCore\ProductosApp\obj\Debug\netcoreapp3.1\ProductosApp.csproj.CopyComplete
